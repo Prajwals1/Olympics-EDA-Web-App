@@ -1,2 +1,2 @@
-# olympics-app_eda
-Olympics EDA streamlit application deployed on heroku
+# Olympics-analysis-web-app
+Olympics EDA app using Streamlit deployed on heroku
